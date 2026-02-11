@@ -15,7 +15,7 @@ Cada tutorial cuenta con su respectivo video explicativo y documento en PDF.
 | Video 5 | [Ver Video 5](https://github.com/mirijass/Programacion-Videojuegos-ll/blob/main/Video5.mp4) | [Ver PDF 5](https://github.com/mirijass/Programacion-Videojuegos-ll/blob/main/Video5.pdf) |
 | Video 6 | [Ver Video 3](https://github.com/mirijass/Programacion-Videojuegos-ll/blob/main/Video3.mp4) | [Ver PDF 6](https://github.com/mirijass/Programacion-Videojuegos-ll/blob/main/Video3.pdf) |
 | Video 7 | [Ver Video 4](https://github.com/mirijass/Programacion-Videojuegos-ll/blob/main/Video7.mp4) | [Ver PDF 7](https://github.com/mirijass/Programacion-Videojuegos-ll/blob/main/Video7.pdf) |
-| Video 8 | [Ver Video 5](https://github.com/mirijass/Programacion-Videojuegos-ll/blob/main/Video8.mp4) | [Ver PDF 8]([https://github.com/mirijass/Programacion-Videojuegos-ll/blob/main/Video5.pdf](https://github.com/mirijass/Programacion-Videojuegos-ll/blob/main/Video8.pdf)) |
+| Video 8 | [Ver Video 5](https://github.com/mirijass/Programacion-Videojuegos-ll/blob/main/Video8.mp4) | [Ver PDF 8]([https://github.com/mirijass/Programacion-Videojuegos-ll/blob/main/Video8.pdf) |
 
 ## ✨ Autor
 **Miriam Jasmin Guerrero Lozano**
