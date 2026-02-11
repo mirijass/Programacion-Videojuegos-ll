@@ -15,6 +15,7 @@ Cada tutorial cuenta con su respectivo video explicativo y documento en PDF.
 | Video 5 | [Ver Video 5](https://github.com/mirijass/Programacion-Videojuegos-ll/blob/main/Video5.mp4) | [Ver PDF 5](https://github.com/mirijass/Programacion-Videojuegos-ll/blob/main/Video5.pdf) |
 | Video 6 | [Ver Video 6](https://github.com/mirijass/Programacion-Videojuegos-ll/blob/main/Video6.mp4) | [Ver PDF 6](https://github.com/mirijass/Programacion-Videojuegos-ll/blob/main/Video6.pdf) |
 | Video 7 | [Ver Video 7](https://github.com/mirijass/Programacion-Videojuegos-ll/blob/main/Video7.mp4) | [Ver PDF 7](https://github.com/mirijass/Programacion-Videojuegos-ll/blob/main/Video7.pdf) |
+| Video 8 | [Ver Video 8](https://github.com/mirijass/Programacion-Videojuegos-ll/blob/main/Video8.mp4) | [Ver PDF 8](https://github.com/mirijass/Programacion-Videojuegos-ll/blob/main/Video8.pdf) |
 | Video 9 | [Ver Video 9](https://github.com/mirijass/Programacion-Videojuegos-ll/blob/main/Video9.mp4) | [Ver PDF 9](https://github.com/mirijass/Programacion-Videojuegos-ll/blob/main/Video9.pdf) |
 
 
